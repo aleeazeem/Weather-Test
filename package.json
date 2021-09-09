@@ -7,9 +7,8 @@
     "typescript",
     "jest"
   ],
-  "author": "Brian Schlenker <bschlenk@umich.edu>",
-  "license": "MIT",
-  "repository": "bschlenk/node-typescript-jest-boilerplate",
+  "author": "Muhammad Ali Azeem <maleeazeem@gmail.com>",
+  "repository": "maleeazeem/Weather-test",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
